@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "y1gdujRCo3yMpPRg87yJb+Opd7cs+w62xFCEdHUvEys=",
+  "Source": "MyWebApi",
+  "BasePath": "_content/MyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApi/wwwroot",
+      "Source": "MyWebApi",
+      "ContentRoot": "/Users/tapan.shah-sa/Desktop/Stackover Flow Search Engine/MyWebApi/wwwroot/",
+      "BasePath": "_content/MyWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
